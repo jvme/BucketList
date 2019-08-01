@@ -1,5 +1,7 @@
 {
   "name": "bucklist",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
